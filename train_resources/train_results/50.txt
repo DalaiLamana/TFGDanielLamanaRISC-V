@@ -1,0 +1,382 @@
+Folder projects/300epochmobilenet50/Evaluation_results is already exists. Image files in directory might be overwritten
+Loading pre-trained weights for the whole model:  projects/300epochmobilenet50/YOLO_best_mAP.h5
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss700.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5522388059701493
+detect_idx: 1, true_idx: 1, matching-score: 0.19825708061002179
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss701.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8747697974217311
+5-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss702.png saved.
+detect_idx: 0, true_idx: 6, matching-score: 0.5989304812834224
+detect_idx: 1, true_idx: 3, matching-score: 0.7486889874949576
+detect_idx: 2, true_idx: 1, matching-score: 0.0
+detect_idx: 3, true_idx: 2, matching-score: 0.765231302493001
+detect_idx: 4, true_idx: 8, matching-score: 0.6505162827640985
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss703.png saved.
+detect_idx: 0, true_idx: 9, matching-score: 0.43356643356643354
+7-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss704.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.5624768261030775
+detect_idx: 1, true_idx: 5, matching-score: 0.6853487663722205
+detect_idx: 2, true_idx: 1, matching-score: 0.53106960950764
+detect_idx: 3, true_idx: 2, matching-score: 0.559915164369035
+detect_idx: 4, true_idx: 4, matching-score: 0.37879484820607173
+detect_idx: 5, true_idx: 7, matching-score: 0.5532359081419624
+detect_idx: 6, true_idx: 0, matching-score: 0.7619313424504605
+4-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss705.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.4872628726287263
+detect_idx: 1, true_idx: 13, matching-score: 0.43803181650018497
+detect_idx: 2, true_idx: 15, matching-score: 0.17176536626438393
+detect_idx: 3, true_idx: 7, matching-score: 0.3494983277591973
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss706.png saved.
+detect_idx: 0, true_idx: 7, matching-score: 0.7837837837837838
+detect_idx: 1, true_idx: 10, matching-score: 0.5837669094693028
+detect_idx: 2, true_idx: 1, matching-score: 0.6606312698801077
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss707.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8525573721313934
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss708.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7210179076343073
+detect_idx: 1, true_idx: 1, matching-score: 0.8176824946846208
+detect_idx: 2, true_idx: 2, matching-score: 0.6229007633587786
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss709.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6940286496056656
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss710.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.5698005698005698
+detect_idx: 1, true_idx: 2, matching-score: 0.6457399103139013
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss711.png saved.
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss712.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.7972230257448655
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss713.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7306841831425598
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss714.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6451612903225806
+detect_idx: 1, true_idx: 1, matching-score: 0.5127362366474938
+detect_idx: 2, true_idx: 2, matching-score: 0.025174825174825177
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss715.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5598896769109535
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+detect_idx: 2, true_idx: None, matching-score: 0
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss716.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8834862385321101
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss717.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss718.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.48135744585845053
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss719.png saved.
+5-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss720.png saved.
+detect_idx: 0, true_idx: 4, matching-score: 0.44651162790697674
+detect_idx: 1, true_idx: 0, matching-score: 0.35847647498132934
+detect_idx: 2, true_idx: 2, matching-score: 0.46342048452866397
+detect_idx: 3, true_idx: 1, matching-score: 0.7123115577889447
+detect_idx: 4, true_idx: 3, matching-score: 0.5919899874843555
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss721.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9186588253265103
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss722.png saved.
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss723.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss724.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.3759723422644771
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss725.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7310727857351652
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss726.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.4856512141280353
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss727.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7851179673321234
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss728.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.3386454183266932
+detect_idx: 1, true_idx: 1, matching-score: 0.2828146143437077
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss729.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7163333619431809
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss730.png saved.
+4-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss731.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.6252481143310837
+detect_idx: 2, true_idx: 1, matching-score: 0.616699355561782
+detect_idx: 3, true_idx: None, matching-score: 0
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss732.png saved.
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss733.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5995642701525055
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss734.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.37165723209057194
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss735.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8673469387755102
+detect_idx: 1, true_idx: 1, matching-score: 0.381330685203575
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss736.png saved.
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss737.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+detect_idx: 2, true_idx: 2, matching-score: 0.0
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss738.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6491803278688525
+detect_idx: 1, true_idx: 1, matching-score: 0.45005149330587024
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss739.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.7684879288437103
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss740.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.31221719457013575
+detect_idx: 1, true_idx: 0, matching-score: 0.6682242990654206
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss742.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7352297592997812
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss743.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8856333539877844
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss744.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.49828178694158076
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss745.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 0, matching-score: 0.6499151103565365
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss746.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8003024765265612
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss747.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8269525267993875
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss749.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5319148936170213
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss750.png saved.
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss751.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3713527851458886
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss752.png saved.
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss753.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss754.png saved.
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss755.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.0
+detect_idx: 1, true_idx: 7, matching-score: 0.54858934169279
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss756.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.6260869565217392
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss757.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8083343340939114
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss758.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.9473684210526315
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss759.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.10617551462621885
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss760.png saved.
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss762.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8454172366621067
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss763.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 1, matching-score: 0.5916534601162177
+detect_idx: 2, true_idx: 0, matching-score: 0.7348444349406608
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss764.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6943350904116902
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss765.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.796440153857757
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss766.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9072025287875367
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss767.png saved.
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss768.png saved.
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss769.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5870356882738529
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss770.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3677736777367774
+4-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss771.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.5656858682138417
+detect_idx: 1, true_idx: 2, matching-score: 0.6736893679568838
+detect_idx: 2, true_idx: 0, matching-score: 0.3650835765455028
+detect_idx: 3, true_idx: 3, matching-score: 0.7650623885918003
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss772.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.315884476534296
+detect_idx: 1, true_idx: 1, matching-score: 0.49692380501656414
+detect_idx: 2, true_idx: None, matching-score: 0
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss773.png saved.
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss774.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.4295676429567643
+detect_idx: 1, true_idx: 2, matching-score: 0.782608695652174
+detect_idx: 2, true_idx: 1, matching-score: 0.6811301715438951
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss775.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7027443724946038
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 1, matching-score: 0.6423123243677238
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss776.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.8666666666666667
+4-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss777.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.18564356435643564
+detect_idx: 1, true_idx: 6, matching-score: 0.47084762371386574
+detect_idx: 2, true_idx: 1, matching-score: 0.5721761883994767
+detect_idx: 3, true_idx: 0, matching-score: 0.821830343569474
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss778.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.48736462093862815
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+detect_idx: 2, true_idx: 4, matching-score: 0.8071661237785016
+5-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss779.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.0
+detect_idx: 1, true_idx: 4, matching-score: 0.0
+detect_idx: 2, true_idx: 0, matching-score: 0.6744186046511628
+detect_idx: 3, true_idx: 1, matching-score: 0.5797579757975797
+detect_idx: 4, true_idx: 2, matching-score: 0.4587737843551797
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss780.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.49122807017543857
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss781.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7847533632286996
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss782.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.44127155172413796
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss783.png saved.
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss784.png saved.
+detect_idx: 0, true_idx: 6, matching-score: 0.38990332975295383
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss785.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss786.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.8495280399777901
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+6-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss787.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6370699223085461
+detect_idx: 1, true_idx: 4, matching-score: 0.687866927592955
+detect_idx: 2, true_idx: 1, matching-score: 0.84375
+detect_idx: 3, true_idx: 2, matching-score: 0.15886984715145902
+detect_idx: 4, true_idx: 3, matching-score: 0.6538734896943852
+detect_idx: 5, true_idx: 6, matching-score: 0.7646820575131632
+5-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss788.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6166089965397924
+detect_idx: 1, true_idx: 1, matching-score: 0.6666666666666666
+detect_idx: 2, true_idx: 2, matching-score: 0.2704626334519573
+detect_idx: 3, true_idx: 3, matching-score: 0.6191950464396285
+detect_idx: 4, true_idx: 4, matching-score: 0.20008550662676358
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss789.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5473684210526316
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss790.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7164919079097333
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss791.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7396193771626297
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss792.png saved.
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss793.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8949126413155191
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss794.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7287996241484613
+detect_idx: 1, true_idx: 1, matching-score: 0.8057309373482273
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss795.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.1656
+detect_idx: 1, true_idx: 2, matching-score: 0.3071090047393365
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss796.png saved.
+detect_idx: 0, true_idx: 4, matching-score: 0.8333333333333334
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss797.png saved.
+4-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss798.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.45161860958782946
+detect_idx: 2, true_idx: None, matching-score: 0
+detect_idx: 3, true_idx: 1, matching-score: 0.6303313899969316
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss799.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.26048387096774195
+detect_idx: 1, true_idx: 2, matching-score: 0.3358208955223881
+detect_idx: 2, true_idx: 3, matching-score: 0.4594492644285175
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss800.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.2507598784194529
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss801.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.37389380530973454
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss802.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.46938775510204084
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss803.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7598712082697848
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss804.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss805.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6764705882352942
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss806.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.45615716339242934
+detect_idx: 1, true_idx: 4, matching-score: 0.6057692307692307
+detect_idx: 2, true_idx: 1, matching-score: 0.6311377245508982
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss807.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.0
+detect_idx: 1, true_idx: 6, matching-score: 0.48548812664907653
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss808.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8527918781725888
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss809.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.581547064305685
+detect_idx: 1, true_idx: 0, matching-score: 0.43955223880597016
+detect_idx: 2, true_idx: 1, matching-score: 0.6608391608391608
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss810.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8109393579072532
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss811.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.4710441468253968
+detect_idx: 1, true_idx: None, matching-score: 0
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss812.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7612903225806451
+detect_idx: 1, true_idx: 2, matching-score: 0.5395530329904221
+detect_idx: 2, true_idx: 1, matching-score: 0.6389257294429708
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss813.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.7987734039391565
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss814.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.931239092495637
+4-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss816.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.22727272727272727
+detect_idx: 1, true_idx: 2, matching-score: 0.8329560887279311
+detect_idx: 2, true_idx: 1, matching-score: 0.0
+detect_idx: 3, true_idx: 4, matching-score: 0.6354029062087186
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss817.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8590102707749766
+detect_idx: 1, true_idx: None, matching-score: 0
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss818.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.5702685244994002
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss819.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8581642066420664
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss820.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7664233576642335
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss821.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.0
+detect_idx: 1, true_idx: 0, matching-score: 0.757532281205165
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss822.png saved.
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss823.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7987012987012987
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss824.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+4-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss825.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6759776536312849
+detect_idx: 1, true_idx: 1, matching-score: 0.5944363103953147
+detect_idx: 2, true_idx: 2, matching-score: 0.5015576323987538
+detect_idx: 3, true_idx: 3, matching-score: 0.5263157894736842
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss826.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss827.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7555565910255813
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss828.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9614001027807915
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss829.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5905340859748155
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss831.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7082494969818913
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss833.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.724275595621378
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss834.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5244755244755245
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss836.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.6280806572068708
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss837.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7643835616438356
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss838.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8467197726926785
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss839.png saved.
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss840.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8089602704987321
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss841.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6605097030628946
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss842.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3323661303086257
+detect_idx: 1, true_idx: 2, matching-score: 0.5581395348837209
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss843.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.7361798679867987
+detect_idx: 1, true_idx: 2, matching-score: 0.5743843800087425
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss844.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5496926229508197
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 1, matching-score: 0.6993275696445725
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss845.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8086192810457516
+2-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss846.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.44870565675934804
+detect_idx: 1, true_idx: None, matching-score: 0
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss847.png saved.
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss848.png saved.
+0-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss849.png saved.
+3-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss850.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.7040293040293041
+detect_idx: 1, true_idx: 0, matching-score: 0.3
+detect_idx: 2, true_idx: 2, matching-score: 0.718266253869969
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss851.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.926755743848786
+1-boxes are detected. projects/300epochmobilenet50/Evaluation_results/maksssksksss852.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.47244094488188976
+{'fscore': 0.31126596980255516, 'precision': 0.5775862068965517, 'recall': 0.21303656597774245}
+Average prediction time:22.20304094511887 ms

@@ -1,0 +1,389 @@
+Folder projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results is already exists. Image files in directory might be overwritten
+Loading pre-trained weights for the whole model:  projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/YOLO_best_mAP.h5
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss700.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6988888888888889
+detect_idx: 1, true_idx: 1, matching-score: 0.6936936936936937
+detect_idx: 2, true_idx: None, matching-score: 0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss701.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7682455475558924
+4-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss702.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.4597457627118644
+detect_idx: 1, true_idx: 3, matching-score: 0.5853658536585366
+detect_idx: 2, true_idx: 2, matching-score: 0.3215686274509804
+detect_idx: 3, true_idx: 9, matching-score: 0.7695209354960393
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss703.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.4658721560130011
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+6-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss704.png saved.
+detect_idx: 0, true_idx: 5, matching-score: 0.7830045523520486
+detect_idx: 1, true_idx: 1, matching-score: 0.5859154929577465
+detect_idx: 2, true_idx: 2, matching-score: 0.506211755979974
+detect_idx: 3, true_idx: 4, matching-score: 0.7332804652392281
+detect_idx: 4, true_idx: 7, matching-score: 0.7328446344939931
+detect_idx: 5, true_idx: 0, matching-score: 0.8448516850442616
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss705.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.274442538593482
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss706.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5834648153991796
+detect_idx: 1, true_idx: 1, matching-score: 0.5048923679060665
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss707.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7291161889141536
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss708.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.8060253699788583
+detect_idx: 1, true_idx: 2, matching-score: 0.6526172671651937
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss709.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9091882247992864
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss710.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.530161427357689
+detect_idx: 1, true_idx: 2, matching-score: 0.6641991924629879
+detect_idx: 2, true_idx: 0, matching-score: 0.0
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss711.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.6159014557670772
+detect_idx: 1, true_idx: 3, matching-score: 0.1211556383970177
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss712.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5866619115549215
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss713.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7974902639549979
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss714.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.0
+detect_idx: 1, true_idx: 0, matching-score: 0.2865612648221344
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss715.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6993006993006993
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss716.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8806110143373979
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss717.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.5227568270481144
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+detect_idx: 2, true_idx: 1, matching-score: 0.0
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss718.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 1, matching-score: 0.42893577556225365
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss719.png saved.
+5-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss720.png saved.
+detect_idx: 0, true_idx: 4, matching-score: 0.45103857566765576
+detect_idx: 1, true_idx: 0, matching-score: 0.26236603462489694
+detect_idx: 2, true_idx: 2, matching-score: 0.6032937757326229
+detect_idx: 3, true_idx: 1, matching-score: 0.6459731543624161
+detect_idx: 4, true_idx: 3, matching-score: 0.6871691454499622
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss721.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8605135322692574
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss722.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss723.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.11557478368355995
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss724.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.28851291184327693
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss725.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7780612244897959
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss726.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss727.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6934673366834171
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss728.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.35443037974683544
+detect_idx: 1, true_idx: 1, matching-score: 0.28708133971291866
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss729.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6329608938547486
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss730.png saved.
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss731.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5083819241982507
+detect_idx: 1, true_idx: 1, matching-score: 0.698531922157733
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss732.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss733.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6544071020925808
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss734.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8854044548651817
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss735.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7016978922716628
+detect_idx: 1, true_idx: 1, matching-score: 0.4585152838427948
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss736.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.7830385015608741
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss737.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss738.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7581967213114754
+detect_idx: 1, true_idx: 1, matching-score: 0.5940494200706001
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss739.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7208700155359917
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss740.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.2526997840172786
+detect_idx: 1, true_idx: 1, matching-score: 0.4158043273753528
+detect_idx: 2, true_idx: None, matching-score: 0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss741.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.41414141414141414
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss742.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6794064360279527
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss743.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8480090222954801
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss744.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.2864583333333333
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss745.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.6615706806282723
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss746.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7836451026240582
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss747.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7840172786177105
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss748.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5853415530232269
+detect_idx: 1, true_idx: None, matching-score: 0
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss749.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss750.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss751.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss752.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss753.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss754.png saved.
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss755.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.0
+detect_idx: 1, true_idx: 7, matching-score: 0.5028735632183908
+detect_idx: 2, true_idx: 0, matching-score: 0.0
+4-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss756.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.0
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 0, matching-score: 0.7
+detect_idx: 3, true_idx: None, matching-score: 0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss757.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8177377144518756
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss758.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.8773712737127372
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss759.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.06623181133968892
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss760.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss761.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7587733164717041
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss762.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9308380797396257
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss763.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 1, matching-score: 0.7823599052880821
+detect_idx: 2, true_idx: 0, matching-score: 0.8099222248409145
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss764.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6411795407098121
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss765.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7946063086925115
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss766.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9678758741258742
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss767.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.37790697674418605
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss768.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss769.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss770.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.26119402985074625
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss771.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.6201550387596899
+detect_idx: 1, true_idx: 2, matching-score: 0.7220041560840452
+detect_idx: 2, true_idx: 3, matching-score: 0.7822792483329966
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss772.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.5825551782682513
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss773.png saved.
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss774.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.3492197385069591
+detect_idx: 1, true_idx: 2, matching-score: 0.7545731707317073
+detect_idx: 2, true_idx: 1, matching-score: 0.6884449244060475
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss775.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6172248803827751
+detect_idx: 1, true_idx: 1, matching-score: 0.67144678138942
+detect_idx: 2, true_idx: None, matching-score: 0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss776.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.6701030927835051
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss777.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.7243221035332785
+detect_idx: 1, true_idx: 0, matching-score: 0.657126168224299
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss778.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.2845117845117845
+detect_idx: 1, true_idx: 4, matching-score: 0.5559011040273675
+detect_idx: 2, true_idx: 1, matching-score: 0.0
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss779.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3667447306791569
+detect_idx: 1, true_idx: 0, matching-score: 0.5719257540603249
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss780.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss781.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.923438970818952
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss782.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 1, matching-score: 0.45512642400666853
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss783.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss784.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss785.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6689965827896862
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss786.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.5805260729118598
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+5-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss787.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.347359502965264
+detect_idx: 1, true_idx: 2, matching-score: 0.0
+detect_idx: 2, true_idx: 1, matching-score: 0.8598726114649682
+detect_idx: 3, true_idx: 3, matching-score: 0.6222990492653414
+detect_idx: 4, true_idx: 6, matching-score: 0.7647454586230097
+4-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss788.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.5914826498422713
+detect_idx: 1, true_idx: 2, matching-score: 0.2796610169491525
+detect_idx: 2, true_idx: 3, matching-score: 0.5248508946322068
+detect_idx: 3, true_idx: 4, matching-score: 0.4782608695652174
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss789.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6528046421663443
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss790.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7262569832402235
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss791.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8001532860701284
+4-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss792.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.42804587751568923
+detect_idx: 1, true_idx: 3, matching-score: 0.38720073664825044
+detect_idx: 2, true_idx: 0, matching-score: 0.5434538513361779
+detect_idx: 3, true_idx: 2, matching-score: 0.0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss793.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8605572514126129
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss794.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.75658419792498
+detect_idx: 1, true_idx: 1, matching-score: 0.8139130434782609
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss795.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss796.png saved.
+detect_idx: 0, true_idx: 4, matching-score: 0.5957446808510638
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss797.png saved.
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss798.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6003222341568206
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 1, matching-score: 0.6386554621848739
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss799.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.4932018128499067
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss800.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss801.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss802.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.39965397923875434
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss803.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.621955462769659
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss804.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+7-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss805.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6789195210247841
+detect_idx: 1, true_idx: 2, matching-score: 0.0
+detect_idx: 2, true_idx: 1, matching-score: 0.6323185011709602
+detect_idx: 3, true_idx: 5, matching-score: 0.7575757575757576
+detect_idx: 4, true_idx: 4, matching-score: 0.5595238095238095
+detect_idx: 5, true_idx: 6, matching-score: 0.0
+detect_idx: 6, true_idx: 3, matching-score: 0.6486629600211808
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss806.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.4858861638130495
+detect_idx: 1, true_idx: 4, matching-score: 0.6588759042849193
+detect_idx: 2, true_idx: 5, matching-score: 0.004362050163576881
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss807.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss808.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8347205707491082
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss809.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.5494145199063232
+detect_idx: 1, true_idx: 0, matching-score: 0.41550802139037435
+detect_idx: 2, true_idx: 1, matching-score: 0.578125
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss810.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8373434734150659
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss811.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.4264322916666667
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss812.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.6618705035971223
+detect_idx: 1, true_idx: 0, matching-score: 0.670838073568449
+detect_idx: 2, true_idx: 1, matching-score: 0.5062469966362326
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss813.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6557309716339366
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss814.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8230553608969867
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss815.png saved.
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss816.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.4881889763779528
+detect_idx: 1, true_idx: 3, matching-score: 0.4726664187430272
+detect_idx: 2, true_idx: 4, matching-score: 0.5925925925925926
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss817.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8879668049792531
+detect_idx: 1, true_idx: None, matching-score: 0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss818.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5837379894617213
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss819.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7338308457711443
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss820.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8203125
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss821.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6235294117647059
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss822.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss823.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6094420600858369
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss824.png saved.
+5-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss825.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.3886039886039886
+detect_idx: 1, true_idx: 1, matching-score: 0.4414295168762409
+detect_idx: 2, true_idx: 2, matching-score: 0.44370308590492075
+detect_idx: 3, true_idx: 3, matching-score: 0.5208333333333334
+detect_idx: 4, true_idx: None, matching-score: 0
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss826.png saved.
+detect_idx: 0, true_idx: 5, matching-score: 0.5604243542435424
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss827.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7845707612912947
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss828.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7367586425626388
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss829.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5918367346938775
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss830.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.529925187032419
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss831.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6688058035714286
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss832.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7191261335531739
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss833.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8197919595164465
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss834.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5866666666666667
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss835.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: None, matching-score: 0
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss836.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.7
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss837.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7193260368663594
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss838.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7714455917394758
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss839.png saved.
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss840.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.0
+detect_idx: 1, true_idx: 0, matching-score: 0.5817490494296578
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss841.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9152542372881356
+2-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss842.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.41232945932289033
+detect_idx: 1, true_idx: 3, matching-score: 0.008633714655730628
+4-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss843.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6904950181875692
+detect_idx: 1, true_idx: 1, matching-score: 0.7362662411670846
+detect_idx: 2, true_idx: 2, matching-score: 0.44763736924371766
+detect_idx: 3, true_idx: None, matching-score: 0
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss844.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.6632265073329712
+detect_idx: 2, true_idx: 1, matching-score: 0.6585365853658537
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss845.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8085147002672776
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss846.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.628436018957346
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss847.png saved.
+detect_idx: 0, true_idx: 5, matching-score: 0.3216494845360825
+0-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss848.png saved.
+3-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss849.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 2, matching-score: 0.6385135135135135
+detect_idx: 2, true_idx: 1, matching-score: 0.0
+4-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss850.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.7324894514767932
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 0, matching-score: 0.3707165109034268
+detect_idx: 3, true_idx: 2, matching-score: 0.7495029821073559
+1-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss851.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8667343274260286
+4-boxes are detected. projects/mask_detectorMobileNet50_3classes_valacc/2021-09-04_20-34-04/Evaluation_results/maksssksksss852.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.2528216704288939
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 0, matching-score: 0.5424564063684609
+detect_idx: 3, true_idx: None, matching-score: 0
+{'fscore': 0.31292517006802717, 'precision': 0.5948275862068966, 'recall': 0.2123076923076923}
+Average prediction time:21.98170831328944 ms

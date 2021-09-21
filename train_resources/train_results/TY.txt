@@ -1,0 +1,349 @@
+Folder /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results is created.
+Loading pre-trained weights for the whole model:  /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/YOLO_best_mAP.h5
+Folder /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results is already exists. Image files in directory might be overwritten
+Loading pre-trained weights for the whole model:  /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/YOLO_best_mAP.h5
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss700.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.6433566433566433
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss701.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7541589648798521
+4-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss702.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7771739130434783
+detect_idx: 1, true_idx: 2, matching-score: 0.42209484106305367
+detect_idx: 2, true_idx: 1, matching-score: 0.0
+detect_idx: 3, true_idx: 8, matching-score: 0.8545918367346939
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss703.png saved.
+detect_idx: 0, true_idx: 9, matching-score: 0.6129032258064516
+5-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss704.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.42105263157894735
+detect_idx: 1, true_idx: 2, matching-score: 0.6144338998013683
+detect_idx: 2, true_idx: 4, matching-score: 0.7804878048780488
+detect_idx: 3, true_idx: 7, matching-score: 0.9253277153558053
+detect_idx: 4, true_idx: 0, matching-score: 0.6886075949367089
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss705.png saved.
+detect_idx: 0, true_idx: 6, matching-score: 0.30571665285832644
+detect_idx: 1, true_idx: 14, matching-score: 0.37370047766226466
+detect_idx: 2, true_idx: 9, matching-score: 0.3286004056795132
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss706.png saved.
+detect_idx: 0, true_idx: 10, matching-score: 0.663833805476865
+detect_idx: 1, true_idx: 1, matching-score: 0.6591796875
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss707.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9373618275607959
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss708.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 2, matching-score: 0.7679953560371517
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss709.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8347010550996483
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss710.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.5013564839934889
+detect_idx: 1, true_idx: 1, matching-score: 0.7159420289855073
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss711.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.18357487922705315
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss712.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7653150781112866
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss713.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7151649045289569
+detect_idx: 1, true_idx: None, matching-score: 0
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss714.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5886075949367089
+detect_idx: 1, true_idx: 1, matching-score: 0.342685370741483
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss715.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.12036869690945237
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss716.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9479679369990156
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss717.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 2, matching-score: 0.03453379378391712
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss718.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3912005457025921
+detect_idx: 1, true_idx: 3, matching-score: 0.3870967741935484
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss719.png saved.
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss720.png saved.
+detect_idx: 0, true_idx: 4, matching-score: 0.4343220338983051
+detect_idx: 1, true_idx: 2, matching-score: 0.5873379099923722
+detect_idx: 2, true_idx: 1, matching-score: 0.4223995182899292
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss721.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7533983966538864
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss722.png saved.
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss723.png saved.
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss724.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.19103600293901543
+detect_idx: 1, true_idx: None, matching-score: 0
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss725.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7146952511529353
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss726.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 1, matching-score: 0.7228571428571429
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss727.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7782908545727136
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss728.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3275862068965517
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss729.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6742424242424242
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss730.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss731.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.6612853151195281
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss732.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5889763779527559
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss733.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6193548387096774
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss734.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7711247901510913
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss735.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.4628683693516699
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss736.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss737.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.6097560975609756
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss738.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 1, matching-score: 0.3292568203198495
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss739.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.19327731092436976
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss740.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.28378378378378377
+detect_idx: 1, true_idx: 1, matching-score: 0.8552456839309429
+detect_idx: 2, true_idx: None, matching-score: 0
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss742.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7361210510172784
+detect_idx: 1, true_idx: None, matching-score: 0
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss743.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8668812724862716
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss744.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.28852459016393445
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss745.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8106952986552695
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss746.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8947944455845133
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss747.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8556149732620321
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss749.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.16093880972338642
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss750.png saved.
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss751.png saved.
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss752.png saved.
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss753.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss754.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.5270833333333333
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss755.png saved.
+detect_idx: 0, true_idx: 6, matching-score: 0.3605150214592275
+detect_idx: 1, true_idx: 5, matching-score: 0.42424242424242425
+4-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss756.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 0, matching-score: 0.29153605015673983
+detect_idx: 3, true_idx: None, matching-score: 0
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss757.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7449894085057845
+detect_idx: 1, true_idx: None, matching-score: 0
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss758.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.38590438639724
+detect_idx: 1, true_idx: 1, matching-score: 0.1924198250728863
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss759.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.33935018050541516
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss760.png saved.
+detect_idx: 0, true_idx: 4, matching-score: 0.06896551724137931
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss762.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8273953649256313
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss763.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.6267404157924852
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss764.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7705092407924478
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss765.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7232088594773448
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss766.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8603341103341103
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss767.png saved.
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss768.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss769.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.44098939929328623
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss770.png saved.
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss771.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.4024051803885291
+detect_idx: 1, true_idx: 2, matching-score: 0.502477547228244
+detect_idx: 2, true_idx: 3, matching-score: 0.6534194068993343
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss772.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3224043715846995
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss773.png saved.
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss774.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.843859649122807
+detect_idx: 1, true_idx: 2, matching-score: 0.828819068255688
+detect_idx: 2, true_idx: 1, matching-score: 0.7277992277992278
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss775.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.6816660468575678
+detect_idx: 2, true_idx: 1, matching-score: 0.5644319550381373
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss776.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.29008109794135994
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss777.png saved.
+detect_idx: 0, true_idx: 6, matching-score: 0.2550450837269214
+detect_idx: 1, true_idx: 7, matching-score: 0.3795962509012257
+detect_idx: 2, true_idx: 0, matching-score: 0.8307692307692308
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss778.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.6060371517027864
+detect_idx: 1, true_idx: 3, matching-score: 0.7511380880121397
+detect_idx: 2, true_idx: 4, matching-score: 0.5008880994671403
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss779.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.17800687285223368
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss780.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.3515566491922542
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss781.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.872661747039643
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss782.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.6038961038961039
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss783.png saved.
+6-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss784.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 6, matching-score: 0.5701754385964912
+detect_idx: 2, true_idx: 4, matching-score: 0.17380509000620734
+detect_idx: 3, true_idx: 5, matching-score: 0.3466476462196862
+detect_idx: 4, true_idx: 1, matching-score: 0.05013927576601671
+detect_idx: 5, true_idx: 2, matching-score: 0.12253829321663019
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss785.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6138160632542655
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss786.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 2, matching-score: 0.22183252959228408
+7-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss787.png saved.
+detect_idx: 0, true_idx: 5, matching-score: 0.34983736899168777
+detect_idx: 1, true_idx: 7, matching-score: 0.4541720154043646
+detect_idx: 2, true_idx: 1, matching-score: 0.7578749412317819
+detect_idx: 3, true_idx: 0, matching-score: 0.0
+detect_idx: 4, true_idx: 2, matching-score: 0.3547511312217195
+detect_idx: 5, true_idx: 3, matching-score: 0.42917547568710357
+detect_idx: 6, true_idx: 6, matching-score: 0.7684729064039408
+4-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss788.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.32619175147295126
+detect_idx: 1, true_idx: 1, matching-score: 0.5207430340557275
+detect_idx: 2, true_idx: 2, matching-score: 0.7435897435897436
+detect_idx: 3, true_idx: 3, matching-score: 0.5355113636363636
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss789.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss790.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7763466042154566
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss791.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7269874476987448
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss792.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss793.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9065590838105153
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss794.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7360734134677523
+detect_idx: 1, true_idx: 1, matching-score: 0.6755216052901608
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss795.png saved.
+detect_idx: 0, true_idx: 13, matching-score: 0.6140065146579805
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss796.png saved.
+detect_idx: 0, true_idx: 12, matching-score: 0.2627627627627628
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss797.png saved.
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss798.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 1, matching-score: 0.686976389946687
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss799.png saved.
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss800.png saved.
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss801.png saved.
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss802.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.2100350058343057
+detect_idx: 1, true_idx: 3, matching-score: 0.2942061700526712
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss803.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5685420658421878
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss804.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss805.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.4804392587508579
+5-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss806.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.09278350515463918
+detect_idx: 1, true_idx: 4, matching-score: 0.33204225352112676
+detect_idx: 2, true_idx: 1, matching-score: 0.5447338618346546
+detect_idx: 3, true_idx: 2, matching-score: 0.2912529550827423
+detect_idx: 4, true_idx: 3, matching-score: 0.08923884514435695
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss807.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss808.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8600263273365512
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss809.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.5534591194968553
+detect_idx: 1, true_idx: 2, matching-score: 0.71875
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss810.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5278637770897833
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss811.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.29177742335637075
+4-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss812.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.5843920145190563
+detect_idx: 1, true_idx: 0, matching-score: 0.5933286018452804
+detect_idx: 2, true_idx: None, matching-score: 0
+detect_idx: 3, true_idx: 1, matching-score: 0.5253456221198156
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss813.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7343218073882339
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss814.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.812210085291037
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss816.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.4218952834270878
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss817.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.852112676056338
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss818.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.7138508371385084
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss819.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7585714285714286
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss820.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6648806624452022
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss821.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7497267759562841
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss822.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss823.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6752136752136753
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss824.png saved.
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss825.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6838365896980462
+detect_idx: 1, true_idx: 2, matching-score: 0.5358615004122012
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss826.png saved.
+detect_idx: 0, true_idx: 5, matching-score: 0.7160493827160493
+detect_idx: 1, true_idx: 0, matching-score: 0.006395614435815441
+detect_idx: 2, true_idx: 1, matching-score: 0.0
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss827.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8266581223966677
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss828.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6708727099941925
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss829.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss831.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6328744263662912
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss833.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7555765851020684
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss834.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7385159010600707
+detect_idx: 1, true_idx: 2, matching-score: 0.6796875
+detect_idx: 2, true_idx: 1, matching-score: 0.0
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss836.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5390924002186988
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss837.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8150568869523118
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss838.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7798435886085289
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss839.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss840.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5412445730824892
+2-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss841.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.7271557271557272
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss842.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.4877424076106842
+detect_idx: 1, true_idx: 1, matching-score: 0.3725806451612903
+detect_idx: 2, true_idx: 2, matching-score: 0.6057934508816121
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss843.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.7082060465606236
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+detect_idx: 2, true_idx: 2, matching-score: 0.5414928140936486
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss844.png saved.
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss845.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8504407741412504
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss846.png saved.
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss847.png saved.
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss848.png saved.
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss849.png saved.
+3-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss850.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.7039740470397404
+detect_idx: 1, true_idx: 0, matching-score: 0.3106113843991567
+detect_idx: 2, true_idx: 2, matching-score: 0.6761032472939217
+1-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss851.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9364315352697096
+0-boxes are detected. /home/daniel/Documentos/TFG/TFG/repos/aXeleRatevIEJO/projects/mask_detectorMobileNetTY/2021-09-21_10-30-26/Evaluation_results/maksssksksss852.png saved.
+{'fscore': 0.2639225181598063, 'precision': 0.5532994923857868, 'recall': 0.17329093799682035}
+Average prediction time:22.29838206850249 ms

@@ -1,0 +1,18 @@
+[submodule "train_resources/raccoon_dataset"]
+	path = train_resources/raccoon_dataset
+	url = https://github.com/experiencor/raccoon_dataset
+[submodule "tools/MaixPy"]
+	path = tools/MaixPy
+	url = https://github.com/sipeed/MaixPy
+[submodule "tools/nncase"]
+	path = tools/nncase
+	url = https://github.com/kendryte/nncase
+[submodule "tools/kflash.py"]
+	path = tools/kflash.py
+	url = https://github.com/kendryte/kflash.py
+[submodule "tools/kflash_gui"]
+	path = tools/kflash_gui
+	url = https://github.com/sipeed/kflash_gui
+[submodule "tools/aXeleRate"]
+	path = tools/aXeleRate
+	url = https://github.com/AIWintermuteAI/aXeleRate

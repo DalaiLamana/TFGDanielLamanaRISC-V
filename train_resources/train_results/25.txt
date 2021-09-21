@@ -1,0 +1,366 @@
+Folder projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results is already exists. Image files in directory might be overwritten
+Loading pre-trained weights for the whole model:  projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/YOLO_best_mAP.h5
+3-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss7.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.8082376772451046
+detect_idx: 1, true_idx: 2, matching-score: 0.0
+detect_idx: 2, true_idx: 0, matching-score: 0.6133333333333333
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss70.png saved.
+3-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss700.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6127926898914906
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 1, matching-score: 0.6825842696629213
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss701.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8729187071498531
+detect_idx: 1, true_idx: None, matching-score: 0
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss702.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.5851717079827154
+detect_idx: 1, true_idx: 8, matching-score: 0.43638352169157857
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss703.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5779569892473119
+6-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss704.png saved.
+detect_idx: 0, true_idx: 5, matching-score: 0.5354629128316188
+detect_idx: 1, true_idx: 2, matching-score: 0.6450592885375495
+detect_idx: 2, true_idx: 1, matching-score: 0.0
+detect_idx: 3, true_idx: 4, matching-score: 0.5670074606244819
+detect_idx: 4, true_idx: 7, matching-score: 0.11880191291215705
+detect_idx: 5, true_idx: 0, matching-score: 0.836436170212766
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss705.png saved.
+detect_idx: 0, true_idx: 6, matching-score: 0.2264671130366286
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss706.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.7166482910694597
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss707.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8077544426494345
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss708.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3393576608725682
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss709.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7737276478679505
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss71.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3908812899638588
+detect_idx: 1, true_idx: 2, matching-score: 0.6784968684759917
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss710.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.7336860670194003
+detect_idx: 1, true_idx: 1, matching-score: 0.5220392156862745
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss711.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss712.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.7890382626680456
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss713.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.6138175376439327
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss714.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.3181818181818182
+detect_idx: 1, true_idx: 1, matching-score: 0.441747572815534
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss715.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.3159673331455928
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss716.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8398891235480465
+detect_idx: 1, true_idx: None, matching-score: 0
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss717.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.6046065259117083
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss718.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss719.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss72.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8022853706209593
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss720.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.5971689767030375
+detect_idx: 1, true_idx: 3, matching-score: 0.7571065403281719
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss721.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7250558451228593
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss722.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss723.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss724.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.3042959427207637
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss725.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.9101587301587302
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss726.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss727.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.814139110604333
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss728.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.03636363636363636
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss729.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6390831390831391
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss73.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss730.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss731.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.655268884053466
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss732.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss733.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7058521780019664
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss734.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8220786846741045
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss735.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss736.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss737.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss738.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss739.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6114335461404526
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss74.png saved.
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss740.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.36792452830188677
+detect_idx: 1, true_idx: 1, matching-score: 0.42492917847025496
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss742.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7045088566827697
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss743.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7514450867052023
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss744.png saved.
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss745.png saved.
+detect_idx: 0, true_idx: None, matching-score: 0
+detect_idx: 1, true_idx: 0, matching-score: 0.5490335165809541
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss746.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8014303744215397
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss747.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6378378378378379
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss749.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss75.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss750.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss751.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.04568138195777351
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss752.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss753.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss754.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss755.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss756.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss757.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7375684035212943
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss758.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.4055714870954527
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss759.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss76.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss760.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss762.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6304414671645069
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss763.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.5108182533438238
+detect_idx: 1, true_idx: 0, matching-score: 0.776952872821175
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss764.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6449771689497716
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss765.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7486977111286504
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss766.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7338847494702304
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss767.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss768.png saved.
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss769.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.1660093896713615
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss77.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.656891495601173
+detect_idx: 1, true_idx: 2, matching-score: 0.2531835205992509
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss770.png saved.
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss771.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.5655737704918032
+detect_idx: 1, true_idx: 3, matching-score: 0.7222167243938644
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss772.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss773.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+3-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss774.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6705107084019769
+detect_idx: 1, true_idx: 2, matching-score: 0.554834523036989
+detect_idx: 2, true_idx: 1, matching-score: 0.7731854838709677
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss775.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.6430757459831675
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss776.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.6066734074823054
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss777.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.23552502453385674
+detect_idx: 1, true_idx: 0, matching-score: 0.6884681583476764
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss778.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss779.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3900709219858156
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss78.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.518483793195821
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss780.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss781.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6861313868613139
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss782.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss783.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss784.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss785.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss786.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.33141542002301494
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+5-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss787.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 1, matching-score: 0.6940298507462687
+detect_idx: 2, true_idx: 2, matching-score: 0.19779546846295162
+detect_idx: 3, true_idx: 3, matching-score: 0.2777899104607993
+detect_idx: 4, true_idx: 6, matching-score: 0.6652151639344263
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss788.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss789.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss79.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss790.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6418369589101296
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss791.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6060054121565362
+3-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss792.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.2850061957868649
+detect_idx: 1, true_idx: 0, matching-score: 0.2271021021021021
+detect_idx: 2, true_idx: 2, matching-score: 0.0
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss793.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8108485624490747
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss794.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6531578947368422
+detect_idx: 1, true_idx: 1, matching-score: 0.8550704803612974
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss795.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.47384615384615386
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss796.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss797.png saved.
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss798.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 1, matching-score: 0.5531112507856694
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss799.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss8.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7211519750924305
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss80.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8630252100840337
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss800.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss801.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss802.png saved.
+detect_idx: 0, true_idx: 3, matching-score: 0.2944325481798715
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss803.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6981724201587595
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss804.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+3-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss805.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.0
+detect_idx: 1, true_idx: 0, matching-score: 0.7020779220779221
+detect_idx: 2, true_idx: 1, matching-score: 0.5627721335268505
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss806.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.4906467129877071
+detect_idx: 1, true_idx: 2, matching-score: 0.38534728829686016
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss807.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss808.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7866108786610879
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss809.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.5078226857887875
+detect_idx: 1, true_idx: 1, matching-score: 0.5913978494623656
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss81.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.2888130636119912
+detect_idx: 1, true_idx: 2, matching-score: 0.6655611799615989
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss810.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss811.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5174851190476191
+3-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss812.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.7781954887218046
+detect_idx: 1, true_idx: 0, matching-score: 0.7111889643091746
+detect_idx: 2, true_idx: 1, matching-score: 0.4838963079340141
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss813.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5838379133674895
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss814.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7334254143646409
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss816.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.422680412371134
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss817.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7978897580498454
+detect_idx: 1, true_idx: None, matching-score: 0
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss818.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6103722033199299
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss819.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7087313930237725
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss82.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.3925399644760213
+detect_idx: 1, true_idx: 1, matching-score: 0.4383408071748879
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss820.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8020466901183243
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss821.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.5366934367211299
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss822.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss823.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7155322862129145
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss824.png saved.
+5-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss825.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.47823261858349575
+detect_idx: 1, true_idx: 3, matching-score: 0.0
+detect_idx: 2, true_idx: 0, matching-score: 0.6091772151898734
+detect_idx: 3, true_idx: None, matching-score: 0
+detect_idx: 4, true_idx: 2, matching-score: 0.48628048780487804
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss826.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss827.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7516097265358685
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss828.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8566694283347142
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss829.png saved.
+3-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss83.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.5890631872159507
+detect_idx: 1, true_idx: 0, matching-score: 0.7287066246056783
+detect_idx: 2, true_idx: 1, matching-score: 0.2209345242489112
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss831.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6068263866097802
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss833.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7513780098636496
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss834.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss836.png saved.
+detect_idx: 0, true_idx: 2, matching-score: 0.06467065868263473
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss837.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8080626223091977
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss838.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7939366919304502
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss839.png saved.
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss84.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.3502508683905828
+detect_idx: 1, true_idx: 2, matching-score: 0.4781954887218045
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss840.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.2899786780383795
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss841.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6863207547169812
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss842.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss843.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.7205457278298069
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss844.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6162211146352514
+detect_idx: 1, true_idx: 1, matching-score: 0.0
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss845.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6818181818181818
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss846.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss847.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss848.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss849.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss85.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.8456375838926175
+3-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss850.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.6882160392798691
+detect_idx: 1, true_idx: 0, matching-score: 0.0
+detect_idx: 2, true_idx: 2, matching-score: 0.5209580838323353
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss851.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.7828232971372162
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss852.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.0
+detect_idx: 1, true_idx: 0, matching-score: 0.4089095744680851
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss86.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.8761904761904762
+detect_idx: 1, true_idx: 0, matching-score: 0.4686299615877081
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss87.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.717986171973902
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss88.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.772200560162557
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss89.png saved.
+detect_idx: 0, true_idx: 24, matching-score: 0.66156382477626
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss9.png saved.
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss90.png saved.
+detect_idx: 0, true_idx: 4, matching-score: 0.32431114362350644
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss91.png saved.
+detect_idx: 0, true_idx: 1, matching-score: 0.6118651822479793
+detect_idx: 1, true_idx: 4, matching-score: 0.49339907746142836
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss92.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss93.png saved.
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss94.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.0
+detect_idx: 1, true_idx: 3, matching-score: 0.650887573964497
+1-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss95.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6429484107969973
+2-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss96.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.6248821866163996
+detect_idx: 1, true_idx: 3, matching-score: 0.328071560115759
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss97.png saved.
+0-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss98.png saved.
+3-boxes are detected. projects/mask_detectorMobileNet0_25/2021-07-19_07-57-39/Evaluation_results/maksssksksss99.png saved.
+detect_idx: 0, true_idx: 0, matching-score: 0.225
+detect_idx: 1, true_idx: None, matching-score: 0
+detect_idx: 2, true_idx: 1, matching-score: 0.45187237465367774
+{'fscore': 0.219735503560529, 'precision': 0.5901639344262295, 'recall': 0.135}
+Average prediction time:22.882978567916357 ms
