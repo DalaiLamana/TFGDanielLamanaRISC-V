@@ -7,7 +7,6 @@ aXeleRate, algunos de estoos parámetros son:
 
 * type: Tipo de modelo, que puede ser un detector de objetos, clasificación de imágenes o segmentación semántica.
 *  architecture : extractor de características a utilizar (Como Tiny Yolo \ref{par:tinyyolo  o MobileNet \ref{par:mobilenets ).
-*  input_size :
 *  coord_scale : magnitud en la que se penalizan las predicciones erróneas de coordenadas.
 *  class_scale : magnitud en la que se penalizan las predicciones erróneas de clase (es otra clase).
 *  object_scale : magnitud en la que se penalizan las predicciones erróneas de objeto (no hay objeto).
